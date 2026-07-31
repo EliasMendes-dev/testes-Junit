@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.junit.ContaBancariaTests
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.049 s -- in com.junit.ContaBancariaTests
